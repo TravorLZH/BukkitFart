@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fart">
+    <output-path>$USER_HOME$/MCServer2/plugins</output-path>
+    <root id="archive" name="fart.jar">
+      <element id="module-output" name="fart" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
