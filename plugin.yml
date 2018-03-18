@@ -1,0 +1,7 @@
+name: Fart
+main: top.travor.fart.Main
+version: 1.0
+commands:
+   fart:
+      description: Toggle farting
+      usage: /<command>
